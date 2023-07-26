@@ -7,3 +7,7 @@ Currently, I am pursuing Information Systems at PUC Minas, focusing on learning 
 # Expertise 🚀
 
 I have a strong ability and inclination towards backend development, creating APIs, solving mathematical problems, and personal organization projects. I have a good understanding of Java, C#, Python, and Node.js. While I am still improving, I also handle frontend development using HTML and CSS.
+
+# Tech Stack 💻
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
